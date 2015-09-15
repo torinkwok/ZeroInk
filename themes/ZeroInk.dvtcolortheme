@@ -97,11 +97,11 @@
 		<key>xcode.syntax.identifier.function</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.901961 0.901961 0.901961 1</string>
+		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>1 0.4 0.4 1</string>
+		<string>1 1 0.8 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>1 0.4 0.4 1</string>
+		<string>1 1 0.8 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
@@ -115,9 +115,9 @@
 		<key>xcode.syntax.number</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.8 0.8 0.8 1</string>
+		<string>0.901961 0.901961 0.901961 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>1 0.4 0.4 1</string>
+		<string>1 1 0.8 1</string>
 		<key>xcode.syntax.string</key>
 		<string>1 0.8 0.4 1</string>
 		<key>xcode.syntax.url</key>
@@ -140,11 +140,11 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>CourierNewPS-ItalicMT - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>CourierNewPS-ItalicMT - 13.0</string>
+		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>CourierNewPS-ItalicMT - 13.0</string>
+		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -152,11 +152,11 @@
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>CourierNewPS-ItalicMT - 13.0</string>
+		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>CourierNewPS-ItalicMT - 13.0</string>
+		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>CourierNewPSMT - 13.0</string>
 		<key>xcode.syntax.keyword</key>
