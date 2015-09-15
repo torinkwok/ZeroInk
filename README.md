@@ -1,5 +1,5 @@
 # ZeroInk
-ZeroInk is an Xcode syntax theme. I hope you love it.
+ZeroInk is an Xcode syntax theme (as shown in following figure). I hope you love it.
 
 ## How to Use?
 Put this file in `~/Library/Developer/Xcode/UserData/FontAndColorThemes` then restart Xcode. Make the folder if it doesn't already exist.
