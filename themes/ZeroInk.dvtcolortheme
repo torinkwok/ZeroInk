@@ -91,9 +91,9 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>1 1 1 1</string>
+		<string>0.701961 0.701961 0.701961 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>1 1 1 1</string>
+		<string>0.701961 0.701961 0.701961 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>1 1 1 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
