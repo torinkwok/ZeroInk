@@ -162,9 +162,9 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SourceCodePro-Regular - 12.0</string>
+		<string>SourceCodePro-Semibold - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>SourceCodePro-Regular - 12.0</string>
+		<string>SourceCodePro-Semibold - 12.0</string>
 		<key>xcode.syntax.plain</key>
 		<string>SourceCodePro-Regular - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
